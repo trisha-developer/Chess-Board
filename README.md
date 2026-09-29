@@ -19,4 +19,4 @@ A simple chess board layout created using **HTML, CSS, and PHP**.
 This project was created to practice HTML structure, CSS styling, and basic PHP integration.
 
 ## Deployment
-<a href="https://trisha-developer.github.io/Chess-Board/">Click Here!</a>
+<a href="chess-board.gt.tc">Click Here!</a>
