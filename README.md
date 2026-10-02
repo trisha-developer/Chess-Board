@@ -20,3 +20,7 @@ This project was created to practice HTML structure, CSS styling, and basic PHP 
 
 ## Deployment
 <p>Domain-name: chess-board.gt.tc</p>
+
+Image:
+<div class="board"><img src="">
+</div>
