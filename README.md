@@ -22,5 +22,5 @@ This project was created to practice HTML structure, CSS styling, and basic PHP 
 <p>Domain-name: chess-board.gt.tc</p>
 
 Image:
-<div class="board"><img src="">
+<div class="board"><img src="Screenshot 2026-10-02 235216.png">
 </div>
